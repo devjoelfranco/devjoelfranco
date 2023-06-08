@@ -19,6 +19,7 @@
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    </div>
+ 
     
   
   <h1 align="center">Redes Sociais</h1>
@@ -33,3 +34,4 @@
     </a>
 </div>
   
+![Snake animation](https://github.com/devjoelfranco/devjoelfranco/blob/output/github-contribution-grid-snake.svg)
