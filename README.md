@@ -1,4 +1,4 @@
-## Olá! Eu sou o Joel Franco 🖐️
+## Hello! I'm Joel Franco 🖐️
 
 <div>
   
@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
-    <h1 align="center">Melhores Tecnologias</h1>
+    <h1 align="center">Best Technologies</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="type-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,7 +22,7 @@
  
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Social media</h1>
     <a href = "mailto: devjoelfranco@gmail.com">
       <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/fc1cc35f976a2c1b9a2fc78e8cb258535638a284/gmail.svg">
     </a>
