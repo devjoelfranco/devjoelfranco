@@ -1,4 +1,4 @@
-## Hello! I'm Joel Franco 🖐️
+## Hello! I'm Joel Franco 👋
 
 <div>
   
