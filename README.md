@@ -1,4 +1,4 @@
-## Hello! I'm Joel Franco 👋
+<h1 align="center"><b>Hi , I'm Joel Franco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div>
   
