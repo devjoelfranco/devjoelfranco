@@ -7,10 +7,7 @@
 </div>
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="90" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
-  <h1 align="center">🔧Tecnologias e ferramentas</h1>
+  <h1 align="left">🔧Tecnologias e ferramentas</h1>
   
 ### línguas
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
