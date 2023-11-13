@@ -7,7 +7,7 @@
 </div>
 <br>
 
-  <h2 align="left">💼 Portfolio:</h2>
+  <h2 align="left">💼 Portfolio</h2>
 
  - [Portfolio](https://famous-kite-6e2.notion.site/JOEL-FRANCO-6bd3d718157c4abf9fac2c2f3b1425d9): A portfolio to showcase my skills and who I am in one place.
  - [Dashboard Portfolio](https://github.com/devjoelfranco/project-portfolio-dashboards): A portfolio dedicated to the world of Power BI, where I share a set of projects developed in Power BI and the dashboards created during my study period.
