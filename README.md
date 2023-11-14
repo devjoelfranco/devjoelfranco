@@ -16,10 +16,26 @@
 
 <h2 align="left">🛠️ Skills</h2>
 
-[<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org/)
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end and database:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h2 align="left">🌍 Languages</h2>
 
