@@ -12,6 +12,13 @@
  - [Portfolio](https://famous-kite-6e2.notion.site/JOEL-FRANCO-6bd3d718157c4abf9fac2c2f3b1425d9): A portfolio to showcase my skills and who I am in one place.
  - [Dashboard Portfolio](https://github.com/devjoelfranco/project-portfolio-dashboards): A portfolio dedicated to the world of Power BI, where I share a set of projects developed in Power BI and the dashboards created during my study period.
 
+<p align="left"><b>📫 How to reach me: </b>
+   <a href="https://www.linkedin.com/in/joelfrannco/"><img src="https://user-images.githubusercontent.com/95641884/150675095-2e8e967f-2a14-413d-b870-21afd707b58d.png" alt="LinkedIn" width="33px" /></a> 
+  <a href="mailto:devjoelfranco@gmail.com"><img src="https://user-images.githubusercontent.com/95641884/150674766-be246e51-4970-4caf-b60a-b9cbc8fdd8a8.png" alt="Gmail" width="33px" /></a>
+</p>
+
+
+
 
 
 <h2 align="left">🛠️ Skills</h2>
@@ -43,6 +50,10 @@
 | ------------- | ------------------------------------------------------------------------- |
 | English | A1 |
 | Portuguese | Native |
+
+<br>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<br>
 
     
   
