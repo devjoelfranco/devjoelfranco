@@ -1,4 +1,18 @@
-<h1 align="center"><b> Hi There!👋 </b></h1>
+# Hi there! 👋<br>I'm Joel Franco! :)
+  <h2 align="left">💼 Portfolio</h2>
+
+ - [Portfolio](https://famous-kite-6e2.notion.site/JOEL-FRANCO-6bd3d718157c4abf9fac2c2f3b1425d9): A portfolio to showcase my skills and who I am in one place.
+ - [Dashboard Portfolio](https://github.com/devjoelfranco/project-portfolio-dashboards): A portfolio dedicated to the world of Power BI, where I share a set of projects developed in Power BI and the dashboards created during my study period.
+
+How to reach me: ⬇️
+<div>
+    <a href = "mailto:devjoelfranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joelfrannco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/joelfrannco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<h2> </h2>
+  
+  </div>
+
 
 <div>
   
@@ -6,20 +20,6 @@
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoelfranco&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
-
-  <h2 align="left">💼 Portfolio</h2>
-
- - [Portfolio](https://famous-kite-6e2.notion.site/JOEL-FRANCO-6bd3d718157c4abf9fac2c2f3b1425d9): A portfolio to showcase my skills and who I am in one place.
- - [Dashboard Portfolio](https://github.com/devjoelfranco/project-portfolio-dashboards): A portfolio dedicated to the world of Power BI, where I share a set of projects developed in Power BI and the dashboards created during my study period.
-
-<p align="left"><b>📫 How to reach me: </b>
-   <a href="https://www.linkedin.com/in/joelfrannco/"><img src="https://user-images.githubusercontent.com/95641884/150675095-2e8e967f-2a14-413d-b870-21afd707b58d.png" alt="LinkedIn" width="33px" /></a> 
-  <a href="mailto:devjoelfranco@gmail.com"><img src="https://user-images.githubusercontent.com/95641884/150674766-be246e51-4970-4caf-b60a-b9cbc8fdd8a8.png" alt="Gmail" width="33px" /></a>
-</p>
-
-
-
-
 
 <h2 align="left">🛠️ Skills</h2>
 
