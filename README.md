@@ -51,9 +51,14 @@ How to reach me: ⬇️
 | English | A1 |
 | Portuguese | Native |
 
-<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-<br>
+<h1></h1>
+
+<!-- activity graph heroku-app start -->
+<p align="left">
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjoelfranco&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 
     
   
