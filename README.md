@@ -1,5 +1,14 @@
-# Hi there! 👋<br>I'm Joel Franco! :)
-  <h2 align="left">💼 Portfolio</h2>
+<h3>Hi there! 👋 I'm Joel Franco! :) 
+  
+Welcome to my repository! I hope to enrich your life by sharing my knowledge.</h3>
+
+<h2 align="left">🗨 About me:</h2>
+
+- 👨‍🎓 I'm studying Information Systems and Software Engineering at Unicesumar.
+- 🔭 I demonstrate critical skills and a passion for delivering results. Gaining valuable experience in a retail company working with the SAP system, developing a business-oriented perspective to offer practical solutions.
+- 📊 In love with data
+
+<h2 align="left">💼 Portfolio:</h2>
 
  - [Portfolio](https://famous-kite-6e2.notion.site/JOEL-FRANCO-6bd3d718157c4abf9fac2c2f3b1425d9): A portfolio to showcase my skills and who I am in one place.
  - [Dashboard Portfolio](https://github.com/devjoelfranco/project-portfolio-dashboards): A portfolio dedicated to the world of Power BI, where I share a set of projects developed in Power BI and the dashboards created during my study period.
@@ -21,7 +30,7 @@ How to reach me: ⬇️
 </div>
 <br>
 
-<h2 align="left">🛠️ Skills</h2>
+<h2 align="left">🛠️ Skills:</h2>
 
 <h3>💻 &nbsp;Front-end:</h3>
 
@@ -44,7 +53,7 @@ How to reach me: ⬇️
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h2 align="left">🌍 Languages</h2>
+<h2 align="left">🌍 Languages:</h2>
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
