@@ -4,7 +4,7 @@ Welcome to my repository! I hope to enrich your life by sharing my knowledge.</h
 
 <h2 align="left">🗨 About me:</h2>
 
-- 👨‍🎓 I'm studying Information Systems and Software Engineering at Unicesumar.
+- 👨‍🎓 I'm studying Software Engineer  at Unicesumar.
 - 🔭 I demonstrate critical skills and a passion for delivering results. Gaining valuable experience in a retail company working with the SAP system, developing a business-oriented perspective to offer practical solutions.
 - 📊 In love with data
 
