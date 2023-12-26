@@ -1,6 +1,4 @@
-<h3>Hi there! 👋 I'm Joel Franco! :) 
-  
-Welcome to my repository! I hope to enrich your life by sharing my knowledge.</h3>
+<h3 align="center">👋 Welcome to my repository! I hope to enrich your life by sharing my knowledge! :) </h3>
 
 <h2 align="left">🗨 About me:</h2>
 
