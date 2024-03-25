@@ -2,7 +2,6 @@
 
 <h2 align="left">🗨 About me:</h2>
 
-- 👨‍🎓 I'm studying Software Engineer at Unicesumar.
 - 🔭 I demonstrate critical skills and a passion for delivering results. Gaining valuable experience in a retail company working with the SAP system, developing a business-oriented perspective to offer practical solutions.
 - 📊 In love with data
 
