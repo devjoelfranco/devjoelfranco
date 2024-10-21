@@ -56,10 +56,8 @@ How to reach me: ⬇️
 ###### Collaboration Tools:
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![MTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)&nbsp;
-
 &nbsp;
 &nbsp;
-
 <h2 align="left">🌍 Languages:</h2>
 
 | Language      | Proficiency                                                               |
